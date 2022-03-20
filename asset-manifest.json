@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/%7Breact-project-name%7D/static/js/main.15a74b33.js",
-    "index.html": "/%7Breact-project-name%7D/index.html",
-    "main.15a74b33.js.map": "/%7Breact-project-name%7D/static/js/main.15a74b33.js.map"
+    "main.js": "/croquistool/static/js/main.1b1c8ff0.js",
+    "index.html": "/croquistool/index.html",
+    "main.1b1c8ff0.js.map": "/croquistool/static/js/main.1b1c8ff0.js.map"
   },
   "entrypoints": [
-    "static/js/main.15a74b33.js"
+    "static/js/main.1b1c8ff0.js"
   ]
 }
