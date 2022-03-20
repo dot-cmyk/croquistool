@@ -2,6 +2,7 @@
   "name": "croquistool",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dot-cmyk.github.io/croquistool/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -19,6 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
+    "predeploy": "npm run build",    // build script를 호출하여 build 디렉터리 생성
+    "deploy": "gh-pages -d build"    // gh-pages를 호출하고 build 디렉터리를 업로드
   },
   "eslintConfig": {
     "extends": [
