@@ -1,10 +1,11 @@
 {
-  "files": {
-    "main.js": "/croquistool/static/js/main.2a09ca0d.js",
-    "index.html": "/croquistool/index.html",
-    "main.2a09ca0d.js.map": "/croquistool/static/js/main.2a09ca0d.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.2a09ca0d.js"
-  ]
+  "main.js": "/croquistool/static/js/main.b5f98eb8.chunk.js",
+  "main.js.map": "/croquistool/static/js/main.b5f98eb8.chunk.js.map",
+  "runtime~main.js": "/croquistool/static/js/runtime~main.3dc749dc.js",
+  "runtime~main.js.map": "/croquistool/static/js/runtime~main.3dc749dc.js.map",
+  "static/js/2.e11b6d59.chunk.js": "/croquistool/static/js/2.e11b6d59.chunk.js",
+  "static/js/2.e11b6d59.chunk.js.map": "/croquistool/static/js/2.e11b6d59.chunk.js.map",
+  "index.html": "/croquistool/index.html",
+  "precache-manifest.cdce8e8283764cb55e7dd1e857b62cbf.js": "/croquistool/precache-manifest.cdce8e8283764cb55e7dd1e857b62cbf.js",
+  "service-worker.js": "/croquistool/service-worker.js"
 }
