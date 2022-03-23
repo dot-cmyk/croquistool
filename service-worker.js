@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/croquistool/precache-manifest.d4ec88a1ab69542267377ebc6dd314e1.js"
+  "/croquistool/precache-manifest.f03191b6ef835a93e0411ef311620a3c.js"
 );
 
 workbox.clientsClaim();
