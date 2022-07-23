@@ -1,15 +1,15 @@
 {
   "main.css": "/croquistool/static/css/main.edf69feb.chunk.css",
-  "main.js": "/croquistool/static/js/main.3218a114.chunk.js",
-  "main.js.map": "/croquistool/static/js/main.3218a114.chunk.js.map",
+  "main.js": "/croquistool/static/js/main.9d9dc096.chunk.js",
+  "main.js.map": "/croquistool/static/js/main.9d9dc096.chunk.js.map",
   "runtime~main.js": "/croquistool/static/js/runtime~main.3dc749dc.js",
   "runtime~main.js.map": "/croquistool/static/js/runtime~main.3dc749dc.js.map",
-  "static/css/2.4de601d7.chunk.css": "/croquistool/static/css/2.4de601d7.chunk.css",
-  "static/js/2.12e7b2d3.chunk.js": "/croquistool/static/js/2.12e7b2d3.chunk.js",
-  "static/js/2.12e7b2d3.chunk.js.map": "/croquistool/static/js/2.12e7b2d3.chunk.js.map",
+  "static/css/2.20a054ed.chunk.css": "/croquistool/static/css/2.20a054ed.chunk.css",
+  "static/js/2.ab59ff65.chunk.js": "/croquistool/static/js/2.ab59ff65.chunk.js",
+  "static/js/2.ab59ff65.chunk.js.map": "/croquistool/static/js/2.ab59ff65.chunk.js.map",
   "index.html": "/croquistool/index.html",
-  "precache-manifest.01efb8fa59e819e7575ff459081a35cb.js": "/croquistool/precache-manifest.01efb8fa59e819e7575ff459081a35cb.js",
+  "precache-manifest.a68b1df8d3fd1ecd15beb9ce5c31a8ef.js": "/croquistool/precache-manifest.a68b1df8d3fd1ecd15beb9ce5c31a8ef.js",
   "service-worker.js": "/croquistool/service-worker.js",
-  "static/css/2.4de601d7.chunk.css.map": "/croquistool/static/css/2.4de601d7.chunk.css.map",
+  "static/css/2.20a054ed.chunk.css.map": "/croquistool/static/css/2.20a054ed.chunk.css.map",
   "static/css/main.edf69feb.chunk.css.map": "/croquistool/static/css/main.edf69feb.chunk.css.map"
 }
