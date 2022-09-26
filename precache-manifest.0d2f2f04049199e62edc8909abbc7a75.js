@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9b516f6091155fb99f4a",
+    "revision": "fbb3b2d8c71fee8cfc99",
     "url": "/croquistool/static/css/main.edf69feb.chunk.css"
   },
   {
-    "revision": "9b516f6091155fb99f4a",
-    "url": "/croquistool/static/js/main.0f43677c.chunk.js"
+    "revision": "fbb3b2d8c71fee8cfc99",
+    "url": "/croquistool/static/js/main.58d74168.chunk.js"
   },
   {
     "revision": "1f07580171c0804b38fa",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/croquistool/static/media/soche2.37afe263.png"
   },
   {
-    "revision": "c81d024e499c97e1135fbbdf605735d0",
+    "revision": "d41db96d7dd95a8bdbbd75c10e03cfbf",
     "url": "/croquistool/index.html"
   }
 ];
