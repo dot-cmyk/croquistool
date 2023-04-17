@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "02c9b25e4c02dd6026b5",
+    "revision": "b3d2c42c8b2e1b742105",
     "url": "/croquistool/static/css/main.edf69feb.chunk.css"
   },
   {
-    "revision": "02c9b25e4c02dd6026b5",
-    "url": "/croquistool/static/js/main.5376e9dd.chunk.js"
+    "revision": "b3d2c42c8b2e1b742105",
+    "url": "/croquistool/static/js/main.8e453176.chunk.js"
   },
   {
-    "revision": "612205aa5adc10811139",
-    "url": "/croquistool/static/js/runtime~main.fa7085b1.js"
+    "revision": "1f07580171c0804b38fa",
+    "url": "/croquistool/static/js/runtime~main.3dc749dc.js"
   },
   {
     "revision": "4bb6243260b654694571",
@@ -20,10 +20,6 @@ self.__precacheManifest = [
     "url": "/croquistool/static/js/2.5ea68b35.chunk.js"
   },
   {
-    "revision": "4aed3764a065f5a9c562",
-    "url": "/croquistool/static/js/3.716f4208.chunk.js"
-  },
-  {
     "revision": "bcadcf285704322dcd3ecf89e72a19ff",
     "url": "/croquistool/static/media/soche.bcadcf28.png"
   },
@@ -32,7 +28,7 @@ self.__precacheManifest = [
     "url": "/croquistool/static/media/soche2.37afe263.png"
   },
   {
-    "revision": "2f9991c00c4c16207eadcfd3191fa049",
+    "revision": "85387a5452bad56c33762b6337a63418",
     "url": "/croquistool/index.html"
   }
 ];
